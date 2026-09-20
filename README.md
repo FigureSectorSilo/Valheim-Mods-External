@@ -8,11 +8,8 @@
 
 <div align="center">
 
-  <img
-    width="474"
-    alt="Delta Force"
-    src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e"
-  />
+<img width="474" height="331" alt="image" src="https://github.com/user-attachments/assets/4015ea5c-018e-4305-8b59-83f059222693" />
+
 
   <br><br>
 
